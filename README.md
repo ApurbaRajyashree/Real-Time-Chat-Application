@@ -12,11 +12,13 @@ This project is a real-time chat application built using Spring Boot, WebSocket,
 📬 Broadcast messaging to all connected users
 
 **🛠 Tech Stack**
+--------------------
 **Backend**: Java 25, Spring Boot, Spring Web MVC, Spring WebSocket, STOMP Messaging
 **Frontend**: HTML, Thymeleaf, Bootstrap 5, JavaScript, SockJS, STOMP.js
 **Build Tool**: Maven
 
 **📂 Project Structure**
+---------------------------
 src
  ├── main
  │   ├── java/com/chat/app
@@ -34,6 +36,7 @@ src
  │        └── application.properties
 
 📚** Learning Outcomes**
+--------------------------
 This project demonstrates:
 Implementation of WebSockets in Spring Boot
 Using STOMP protocol for messaging
@@ -41,6 +44,7 @@ Real-time event-driven architecture
 Integration of frontend WebSocket clients with a Spring backend
 
 🔮** Future Improvements**
+----------------------------
 👤 User authentication (Spring Security)
 💾 Chat history stored in a database
 💬 Private messaging between users
