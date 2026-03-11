@@ -25,24 +25,6 @@ This project is a real-time chat application built using Spring Boot, WebSocket,
 
 **Build Tool**: Maven
 
-**📂 Project Structure**
----------------------------
-src
- ├── main
- │   ├── java/com/chat/app
- │   │   ├── config
- │   │   │    └── WebSocketConfig.java
- │   │   ├── controller
- │   │   │    └── ChatController.java
- │   │   ├── model
- │   │   │    └── ChatMessage.java
- │   │   └── AppApplication.java
- │   │
- │   └── resources
- │        ├── templates
- │        │     └── chat.html
- │        └── application.properties
-
 📚 Learning Outcomes
 --------------------------
 This project demonstrates:
